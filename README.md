@@ -1,6 +1,6 @@
-# DY background estimation (work in progress)
+# DY background estimation with adversary VAE (work in progress)
 
-This repository implements a data-driven background estimation with generative transformers model.
+This repository implements a data-driven background estimation with adversarial Variational Autoencoders.
 
 Latest performance plots and results:
 
